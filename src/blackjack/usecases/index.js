@@ -1,0 +1,5 @@
+export { crearDeck } from './crear-deck'
+export { pedirCarta } from './pedir-carta'
+export { valorCarta } from './valor-carta'
+// import crearDeck, {miNombre} from './usecases/crear-deck'
+// import {crearDeck as crearNuevoDeck} from './usecases/crear-deck'
